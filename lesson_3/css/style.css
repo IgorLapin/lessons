@@ -1,0 +1,28 @@
+@import url("reset.css");
+
+
+h1{
+	color: violet;
+}
+.head *{
+	color: brown;
+}
+.container{
+	color: aqua;
+}
+.two,
+.three{
+	color: blue;
+}
+.header ~ p{
+	color: chartreuse;
+}
+.para + p{
+	color: darkgreen;
+}
+.text .url{
+	color: black;
+}
+#link{
+	color: blueviolet;
+}
